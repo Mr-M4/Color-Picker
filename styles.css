@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#color-picker {
+  margin-bottom: 20px;
+}
+
+#color-preview {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 2px solid #000;
+}
